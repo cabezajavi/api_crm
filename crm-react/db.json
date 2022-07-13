@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "JavierActualizado",
+      "direccion": "Come",
+      "email": "corre@correro.com",
+      "telefono": "123456789",
+      "observaciones": "adfafa",
+      "id": 1
+    },
+    {
+      "nombre": "Javier",
+      "direccion": "Luis A. de Herrera 3472",
+      "email": "micorreo@correo.com",
+      "telefono": "9859895",
+      "observaciones": "Nada",
+      "id": 2
+    },
+    {
+      "nombre": "Javier",
+      "direccion": "Comercio",
+      "email": "mimail@correro.com",
+      "telefono": "123456",
+      "observaciones": "nada",
+      "id": 3
+    },
+    {
+      "nombre": "Juan ",
+      "direccion": "18 de Julio 2024",
+      "email": "elcorreodeJuan@correo.com",
+      "telefono": "1234567891",
+      "observaciones": "Las observacions",
+      "id": 4
+    },
+    {
+      "nombre": "Marios",
+      "direccion": "8 de octubre 12456",
+      "email": "elcorreodemarios@elcorrero.com",
+      "telefono": "123456789",
+      "observaciones": "nada en particular",
+      "id": 5
+    },
+    {
+      "nombre": "Lolo",
+      "direccion": "la casa del lolo 2524",
+      "email": "micasa@correo.com",
+      "telefono": "123456789",
+      "observaciones": "nada",
+      "id": 6
+    }
+  ]
+}
